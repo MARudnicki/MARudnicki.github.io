@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://young-lake-20144.herokuapp.com/v1/task/';
+  var apiRoot = 'https://warm-fortress-36206.herokuapp.com/v1/task/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
